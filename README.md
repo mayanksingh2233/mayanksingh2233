@@ -1,8 +1,5 @@
 ### Hi there,I'm Mayank Singh 👋
 
-<!--
-**mayanksingh2233/mayanksingh2233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 - 🌱 I’m currently learning **Machine Learning **and **Data Science**
