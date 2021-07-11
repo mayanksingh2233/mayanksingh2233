@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Data Science**
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 💬 Ask me about Machine learning and Deeplearning 
-- 📫 How to reach me: singhmayank.ms@gmail.com
+- 📫 How to reach me: singhmayank.ms123@gmail.com
 
 ### About me 
 - Love to solve the Machine Learning and Deeplaerning related problems
