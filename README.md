@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning **Machine Learning** and **Data Science**
+- 🌱 I’m currently learning **Data Science**
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 💬 Ask me about Machine learning and Deeplearning 
 - 📫 How to reach me: singhmayank.ms@gmail.com
