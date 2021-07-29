@@ -3,9 +3,9 @@
 
 
 
-- 🌱 I’m currently learning **Data Science**
-- 👯 I’m looking to collaborate on Machine Learning Projects
-- 💬 Ask me about Machine learning and Deeplearning 
+- 🌱 I’m currently learning **Full-Stack Development**
+- 👯 I’m looking to collaborate on Open-source Projects
+- 💬 Ask me about Machine-learning,Django,Python. 
 - 📫 How to reach me: singhmayank.ms123@gmail.com
 
 ### About me 
