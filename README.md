@@ -13,5 +13,8 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=mayanksingh2233&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=mayanksingh2233&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> -->
 
+**Languages & Tools:**
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayanksingh2233&custom_title=Mayank Singh&show_icons=true&include_all_commits=true&count_private=true&theme=default" alt="boxabhi's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boxabhi&layout=compact&theme=default" />
